@@ -1,0 +1,2 @@
+# nextjsWithDB
+connect with mongodb
